@@ -1,2 +1,2 @@
 # Image-Processing-and-Computer-Vision-Internship_MIT_Manipal
-Fish Image Classification and Segmentation Web App  A web  that allows users to upload an image and get a classification result. Use a pre-trained convolutional neural network (CNN) model (like MobileNet or ResNet) for the image classification task. The backend can be set up using Flask or gradio to handle image uploads and model inference. 
+Fish Image Classification and Segmentation Web App. A web  that allows users to upload an image and get a classification result. Use a pre-trained convolutional neural network (CNN) model (like MobileNet or ResNet) for the image classification task. The backend can be set up using Flask or gradio to handle image uploads and model inference. 
